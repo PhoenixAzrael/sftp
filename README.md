@@ -6,8 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-- [`debian-stretch`, `debian`, `latest` (*Dockerfile*)](https://github.com/phoenixazrael/sftp/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/phoenixazrael/sftp.svg)](http://microbadger.com/images/phoenixazrael/sftp "Get your own image badge on microbadger.com")
-- [`debian-jessie` (*Dockerfile*)](https://github.com/phoenixazrael/sftp/blob/debian-jessie/Dockerfile) [![](https://images.microbadger.com/badges/image/phoenixazrael/sftp:debian-jessie.svg)](http://microbadger.com/images/phoenixazrael/sftp:debian-jessie "Get your own image badge on microbadger.com")
+- [`latest`,`debian` (*Dockerfile*)](https://github.com/phoenixazrael/sftp/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/phoenixazrael/sftp.svg)](http://microbadger.com/images/phoenixazrael/sftp "Get your own image badge on microbadger.com")
 - [`alpine` (*Dockerfile*)](https://github.com/phoenixazrael/sftp/blob/alpine/Dockerfile) [![](https://images.microbadger.com/badges/image/phoenixazrael/sftp:alpine.svg)](http://microbadger.com/images/phoenixazrael/sftp:alpine "Get your own image badge on microbadger.com")
 
 # Securely share your files
